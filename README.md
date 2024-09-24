@@ -1,7 +1,7 @@
 # **Healthcare Claims Fraud Detection Using Machine Learning**
 
 ## **1. Introduction**
-Due to the increase in the number of insurance claims in the recent past, it has become an important challenge for the healthcare organizations and insurance companies to identify the fraudulent claims. Scam means that the company loses a lot of money, and checking these cases with the help of people is very slow and may be inaccurate. Hence, there has been a rise in the application of machine learning models to perform and improve the detection of fraud.
+Due to the increase in the number of insurance claims in the recent past, it has become an important challenge for the healthcare organizations and insurance companies to identify the fraudulent claims. Fraudulent claims can result in significant financial losses, and detecting them manually is time-consuming and prone to errors. Therefore, the use of machine learning models to automate and enhance fraud detection has gained popularity.
 
 In this project, we have implemented an ML solution pipeline from scratch which is used to classify an insurance claim as either fraudulent or not. We employed data from Kaggle, analyzed, cleaned, and tested several machine learning techniques to build a reliable fraud detection system. The idea is to enhance the likelihood of the insurance companies and healthcare organizations to identify fraudulent claims and thereby minimize their losses and optimize their performance.
 
