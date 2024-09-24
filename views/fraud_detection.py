@@ -6,11 +6,11 @@ import joblib
 
 
 # Load trained model
-# model = joblib.load(open('claims_fraud_detection.pkl', 'rb')) 
+model = joblib.load(open('claims_fraud_detection.pkl', 'rb')) 
 
-import os
-model_path = os.path.join(os.getcwd(), 'claims_fraud_detection.pkl')
-model = joblib.load(open(model_path, 'rb'))
+# import os
+# model_path = os.path.join(os.getcwd(), 'claims_fraud_detection.pkl')
+# model = joblib.load(open(model_path, 'rb'))
 
 # Define Streamlit app
 def app():
